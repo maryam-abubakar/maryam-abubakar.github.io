@@ -3,7 +3,7 @@ Personal portfolio website showcasing healthcare data analytics projects and ski
 
 ## Laboratory Revenue and Operations Dashboard
 
-![Laboratory Revenue Dashboard](./laboratory-revenue-dashboard.JPG)
+![Laboratory Revenue Dashboard](./laboratory-revenue-dashboard.png)
 
 ### Project Overview
 This dashboard analyzes laboratory revenue and operational performance, providing insights into:
